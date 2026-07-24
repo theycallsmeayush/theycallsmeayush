@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Ayush 👋
 
-<!--
-**theycallsmeayush/theycallsmeayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science student and a Web Developer from India.
 
-Here are some ideas to get you started:
+I enjoy building modern, responsive websites and turning ideas into real products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm improving my skills by building projects, learning software engineering, and exploring AI.
+
+### Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+- Git & GitHub
+
+### Currently
+
+- 🌐 Building web applications
+- 📖 Learning DSA & Software Engineering
+- 🚀 Open to internships and collaborations
+
+### Let's Connect
+
+- 📧 mehtayush30@gmail.com
