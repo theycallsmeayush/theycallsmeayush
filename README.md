@@ -1,12 +1,12 @@
 # Hey, I'm Ayush 👋
 
-I'm a B.Tech Computer Science student and a Web Developer from India.
+I'm a B.Tech Computer Science student from India.
 
-I enjoy building modern, responsive websites and turning ideas into real products.
+I build modern, responsive websites and enjoy turning ideas into products that people can use.
 
-Right now, I'm improving my skills by building projects, learning software engineering, and exploring AI.
+Right now, I'm improving my skills by building real-world projects and learning more about software engineering.
 
-### Tech Stack
+## Tech I Use
 
 - HTML
 - CSS
@@ -15,12 +15,13 @@ Right now, I'm improving my skills by building projects, learning software engin
 - C++
 - Git & GitHub
 
-### Currently
+## Currently Working On
 
-- 🌐 Building web applications
-- 📖 Learning DSA & Software Engineering
-- 🚀 Open to internships and collaborations
+- Modern Web Applications
+- Data Structures & Algorithms
+- AI & Computer Vision
 
-### Let's Connect
+## Reach Me
 
+- 📸 Instagram: https://www.instagram.com/theycallsmeayush/
 - 📧 mehtayush30@gmail.com
